@@ -20,7 +20,7 @@ Thinking of stickers helped me realize: it's not about code order, it's about st
 
 ---
 
-## 🟢 [`#CantDoYetButTrying`]() series
+## 🟢 [`#CantDoYetButTrying`](https://github.com/kolonatalie/cant-do-yet-but-trying) series
 
 This is part of my ongoing series where I turn HTML, CSS, JavaScript and other frontend development concepts into visual, quirky metaphors as I learn.  
 ### → Also on [Mastodon](https://mastodon.social/@kolonatalie) • [Bluesky](https://bsky.app/profile/kolonatalie.bsky.social) • [LinkedIn](https://www.linkedin.com/in/kolonatalie/)

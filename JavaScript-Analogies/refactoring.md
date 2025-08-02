@@ -23,7 +23,7 @@ This makes it less scary and more satisfying — especially when you're early in
 
 ---
 
-## 🟢 [`#CantDoYetButTrying`]() series
+## 🟢 [`#CantDoYetButTrying`](https://github.com/kolonatalie/cant-do-yet-but-trying) series
 
 This is part of my ongoing series where I explain HTML, CSS, JavaScript and other frontend development concepts using metaphors and visual thinking. If you’re a junior dev or career switcher — you are *so* welcome here.  
 ### → Follow the series on: [Mastodon](https://mastodon.social/@kolonatalie) • [Bluesky](https://bsky.app/profile/kolonatalie.bsky.social) • [LinkedIn](https://www.linkedin.com/in/kolonatalie/)
